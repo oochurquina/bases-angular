@@ -1,0 +1,10 @@
+p {
+    color: indigo;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+dd {
+    font-size: 2rem;
+    font-weight: bold;
+}
