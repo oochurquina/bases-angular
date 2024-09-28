@@ -4,5 +4,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 # Avance del curso
 
+
 SECCION 5 - 
 67. @Output() - Emitir eventos al padre
+
+terminamos la sección...gracias
